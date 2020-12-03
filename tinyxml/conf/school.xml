@@ -1,0 +1,12 @@
+<School name="软件学院">  
+	<Class name = "C++">  
+		<Student name="tinyxml" number="123">  
+			<email>tinyxml@163.com</email>  
+			<address>中国</address>  
+		</Student>  
+		<Student name="jsoncpp" number="456">  
+			<email>jsoncpp@gmail.com</email>  
+			<address>美国</address>  
+		</Student>  
+	</Class>  
+</School>  
